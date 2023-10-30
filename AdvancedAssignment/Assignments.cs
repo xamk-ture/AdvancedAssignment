@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AdvancedAssignment
 {
-    public  class Assignments
+    public static class Assignments
     {
         //Assignment 1: Inheritance
         //Create a new abstarct class called Animal that contains public abstact string method called Speak

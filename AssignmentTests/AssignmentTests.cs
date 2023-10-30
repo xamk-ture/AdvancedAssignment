@@ -1,8 +1,9 @@
+using AdvancedAssignment;
+
 namespace AssignmentTests
 {
     public class AssignmentTests
     {
-
         //Assignment 2: Inheritance unit tests
         //Create unit tests for each animal that checks that the animal speaks what is expected. You can use [Fact] or [InlineData] for this.
 
